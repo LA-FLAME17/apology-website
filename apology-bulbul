@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Apology</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        .container {
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 600px;
+        }
+
+        h1 {
+            color: #e74c3c;
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #555;
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+
+        .signature {
+            font-size: 20px;
+            margin-top: 30px;
+            font-style: italic;
+        }
+
+        .heart {
+            color: #e74c3c;
+            font-size: 36px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>I'm Sorry, My Love</h1>
+        <p>
+            My dearest <span class="highlight">ARICA</span>,<br><br>
+            I know that words can't take away the pain I've caused, but I want you to know that I am truly sorry from the bottom of my heart. The things I said were thoughtless and hurtful, and I understand how much trust I've broken. I never meant to hurt you or make you feel less than the incredible person you are. Please believe me when I say that hurting you is the last thing I would ever want to do.<br><br>
+
+            I want you to know that I love you more than anything in this world, and I will do everything in my power to rebuild the trust I've broken. My actions were wrong, and I will work hard to make things right. I hope that over time, you can see the sincerity in my heart and the depth of my regret.<br><br>
+
+            Please know that I am here for you whenever you're ready to talk, and I will always be ready to listen. You mean everything to me, and I never want to take you for granted again.<br><br>
+
+            With all my love and deepest apologies,<br>
+            <span class="signature">BUBBLE</span>
+        </p>
+
+        <div class="heart">❤️</div>
+    </div>
+
+</body>
+</html>
